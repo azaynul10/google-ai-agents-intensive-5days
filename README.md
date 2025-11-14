@@ -10,7 +10,7 @@
 |-----|-------|--------|-----------|
 | **Day 1** | Introduction to Agents | ✅ Complete | [Notes](./docs/01-agent-fundamentals.md) -  [Whitepaper](./whitepapers/day-1-intro-to-agents.md) -  [Questions](./expert-questions/day-1-expert-questions.md) |
 | **Day 2** | Agent Tools & MCP | ✅ Complete | [Codelab](./codelabs/day-2a-agent-tools) -  [Whitepaper](./whitepapers/day-2-agent-tools-interoperability-mcp.md) -  [Questions](./expert-questions/day-2-expert-questions.md) |
-| **Day 3** | Context Engineering & Memory | ✅ Complete | [Whitepaper]([./codelabs/day-3a-agent-sessions](https://github.com/azaynul10/google-ai-agents-intensive-5days/blob/main/Context%20Engineering_%20Sessions%20%26%20Memory.pdf)) -  [Memory](./codelabs/day-3b-agent-memory) -  [Questions](./expert-questions/day-3-expert-questions.md) |
+| **Day 3** | Context Engineering & Memory | ✅ Complete | [Whitepaper](./google-ai-agents-intensive-5days/blob/main/Context%20Engineering_%20Sessions%20%26%20Memory.pdf) -  [Memory](./codelabs/day-3b-agent-memory) -  [Questions](./expert-questions/day-3-expert-questions.md) |
 | **Day 4** | Agent Quality & Evaluation | ✅ Complete | [Whitepaper](./whitepapers/day-4-agent-quality.md) -  [Questions](./expert-questions/day-4-expert-questions.md) |
 | **Day 5** | Deployment & Production | ✅ Complete | [Whitepaper](./whitepapers/day-5-deploying-productionizing-agents.md) -  [Questions](./expert-questions/day-5-expert-questions.md) |
 
